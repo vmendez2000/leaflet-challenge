@@ -1,5 +1,6 @@
 # leaflet-challenge
 # Earthquake Visualization
+## Deploy here: https://vmendez2000.github.io/leaflet-challenge/
 ### This project visualizes recent earthquake data from the USGS Earthquake feed using Leaflet for the map and D3.js for data visualization. The map displays earthquake markers with size and color reflecting the earthquake's magnitude and depth, respectively. A legend is provided to explain the color scale for earthquake depth.
 
 ## Project Overview
